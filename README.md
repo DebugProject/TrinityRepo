@@ -23,6 +23,7 @@ TrinityCore/ Fusioncms
  For contact : Found3rr ! (Skype)                    
  i'm not have MSN                                    
  Email : Shaban_bjk@abv.bg                           
- Sorry for my bad english.. !    
+ Sorry for my bad english.. !   
+ Thanks to Saqirmdev !
 ===================================================
 
